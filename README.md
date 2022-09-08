@@ -1,6 +1,6 @@
 # Keyboard lighting on/off
 
-[![Keyboard lighting on/off](redd.png)](https://github.com/metawikie/keyboard-lighting-on-off)
+[![Keyboard lighting on/off](redd.png)](https://icncomputer.com/keyboard-lighting-on-off/)
 
 Laptop keyboard lighting has changed the computing game and has made space for nighttime users to power on through the darkness. The vast majority of modern laptop computers come with backlit keyboards in addition to boasting a number of other fancy features that may distract from this rather basic, but wholly necessary feature.
 So, you’ve got a new computer and you’re not quite used to the many shortcuts that allow you to change certain settings with the simple click of a button. When the sun goes down and you’ve still got hours of work to go, you’ll want to know how to turn on keyboard lighting so you can soldier on through the night.
